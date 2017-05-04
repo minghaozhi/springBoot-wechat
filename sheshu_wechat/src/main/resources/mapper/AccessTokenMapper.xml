@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.sheshu.wechat.mapper.AccessTokenMapper">
+
+    <insert id="insert">
+        INSERT INTO `wechat_access_token`
+        (`access_token`,`expires_in`,`create_time`)
+        VALUES (#{access_token},#{expires_in},#{create_time})
+    </insert>
+
+    <select id="find" resultType="com.sheshu.wechat.bean.base.AccessToken">
+        SELECT *
+        FROM `wechat_access_token`
+    </select>
+    
+    <update id="update">
+        UPDATE `wechat_access_token`
+        SET `access_token`=#{access_token},`create_time`=#{create_time}
+    </update>
+
+</mapper>
