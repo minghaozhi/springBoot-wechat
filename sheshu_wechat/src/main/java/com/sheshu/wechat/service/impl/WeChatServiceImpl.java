@@ -19,9 +19,7 @@ import org.springframework.util.StringUtils;
 import java.io.IOException;
 import java.util.Date;
 
-/**
- * 董帮辉 2017-3-8.
- */
+
 @Service("weChatService")
 public class WeChatServiceImpl implements WeChatService{
 

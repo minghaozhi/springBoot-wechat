@@ -9,9 +9,7 @@ import com.sheshu.wechat.bean.page.PageUserInfo;
 
 import java.io.IOException;
 
-/**
- * 董帮辉 2017-3-8.
- */
+
 public interface WeChatService {
     /**
      * 获取accessToken

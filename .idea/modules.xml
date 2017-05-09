@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/sheshu_wechat/sheshu-wechat.iml" filepath="$PROJECT_DIR$/sheshu_wechat/sheshu-wechat.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springBoot-wechat.iml" filepath="$PROJECT_DIR$/.idea/springBoot-wechat.iml" />
     </modules>
   </component>

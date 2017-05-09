@@ -13,9 +13,7 @@ import java.io.IOException;
 import java.util.Arrays;
 import java.util.Date;
 
-/**
- * Created by 董帮辉 on 2017-4-22.
- */
+
 @Controller
 @RequestMapping("weChatView")
 public class WeChatViewController {

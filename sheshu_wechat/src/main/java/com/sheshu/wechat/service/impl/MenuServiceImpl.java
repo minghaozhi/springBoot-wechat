@@ -18,9 +18,7 @@ import org.springframework.util.StringUtils;
 import java.io.IOException;
 import java.util.Map;
 
-/**
- * 董帮辉 2017-3-11.
- */
+
 @Service("menuService")
 public class MenuServiceImpl implements MenuService {
 

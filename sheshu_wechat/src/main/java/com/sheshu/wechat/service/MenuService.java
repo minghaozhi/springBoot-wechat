@@ -4,9 +4,7 @@ import com.sheshu.wechat.menu.Menu;
 
 import java.io.IOException;
 
-/**
- * 董帮辉 2017-3-11.
- */
+
 public interface MenuService {
 
     /**
