@@ -39,8 +39,8 @@ public class MessageServiceImpl implements MessageService {
         News news = new News();
         news.setTitle("微信公众号测试");
         news.setDescription("");
-        news.setPicUrl("http://15h35100r8.iask.in/pic/2.jpg");
-        news.setUrl("https://mp.weixin.qq.com/s?__biz=MzI1NjYzMzMwMg==&tempkey=E1h5wEMDCojvpd%2BPpJmtGS09RbDYzSRbloMYvQOOattmkn8V%2F7IkyCALBnBv8U2u6BnoC2nsNIYRNqFwRpT35FtdY%2Bl3tki%2Fqaef5bEfDw5atp0ziv2J%2BaLzOk%2F%2F2Xev%2BH0hmfK%2FpSq06pez%2BPUFAw%3D%3D&chksm=6a22f1bb5d5578adc35244e4d29e8d560eb0fca2f8856d0dc469796e420499bc415c9f7c5970#rd");
+        news.setPicUrl("http://tupian.aladd.net/2015/3/1153.jpg");
+        news.setUrl("https://github.com/");
         newsList.add(news);
         newsMessage.setToUserName(fromUserName);
         newsMessage.setFromUserName(toUserName);

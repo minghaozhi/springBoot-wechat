@@ -92,7 +92,7 @@ public class MenuServiceImpl implements MenuService {
 
         //父菜单(一级菜单)
         Button button1 = new Button();
-        button1.setName("企业信息");
+        button1.setName("≡企业信息");
         button1.setSub_button(new Button[]{but11, but12,but13,but14});
 
         Button button2 = new Button();
