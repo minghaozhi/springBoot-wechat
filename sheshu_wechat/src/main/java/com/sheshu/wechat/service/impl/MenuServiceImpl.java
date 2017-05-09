@@ -73,7 +73,7 @@ public class MenuServiceImpl implements MenuService {
         but11.setType("click");
         but11.setKey("11");
         ClickButton but12 = new ClickButton();
-        but12.setName("资费介绍");
+        but12.setName("资费介绍⌛");
         but12.setType("click");
         but12.setKey("12");
         ClickButton but13 = new ClickButton();
