@@ -87,7 +87,7 @@ public class MessageServiceImpl implements MessageService {
             //事件类型
             String event = map.get("Event");
             if(event.equals(Constants.EVENT_TYPE_SUBSCRIBE)){
-                textMessage.setContent("欢迎关注董帮辉的微信公众号！");
+                xml = MessageUtils.newsMessageToXml(newsMessage);
             }else if(Constants.EVENT_TYPE_CLICK.equals(event)){//点击事件
                 textMessage.setContent("点击事件");
             }
@@ -96,9 +96,14 @@ public class MessageServiceImpl implements MessageService {
             String label = map.get("Label");
             textMessage.setContent(label);
             xml = MessageUtils.textMessageToXml(textMessage);
-        }
+        }else if(Constants.MESSAGE_TYPE_TEXT.equals(msgType)){
+            textMessage.setContent("欢迎进入微信公众号");
+            xml = MessageUtils.textMessageToXml(textMessage);
 
-        xml = MessageUtils.newsMessageToXml(newsMessage);
+        }else{
+            xml = MessageUtils.newsMessageToXml(newsMessage);
+
+        }
         return xml;
     }
 }
