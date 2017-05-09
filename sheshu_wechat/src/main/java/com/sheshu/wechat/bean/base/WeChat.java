@@ -1,7 +1,6 @@
 package com.sheshu.wechat.bean.base;
 
 /**
- * 董帮辉 2017-3-5.
  * 封装微信参数，用于接收微信校验服务器配置
  */
 public class WeChat {

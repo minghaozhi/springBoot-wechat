@@ -1,7 +1,6 @@
 package com.sheshu.wechat.bean.message;
 
 /**
- * 董帮辉 2017-3-5.
  * 响应消息基础类
  */
 public class BaseMessage {

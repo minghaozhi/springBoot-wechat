@@ -1,7 +1,6 @@
 package com.sheshu.wechat.bean.custom;
 
 /**
- * 董帮辉 2017-3-27.
  * 客服消息基类
  */
 public class BaseMessage {

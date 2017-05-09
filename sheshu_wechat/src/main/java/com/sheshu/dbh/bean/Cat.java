@@ -6,7 +6,6 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
 /**
- * 董帮辉 2017-4-16.
  * Cat类用于测试
  */
 @Entity

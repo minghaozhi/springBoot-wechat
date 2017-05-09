@@ -5,7 +5,6 @@ import com.sheshu.wechat.bean.message.*;
 import com.thoughtworks.xstream.XStream;
 
 /**
- * 董帮辉 2017-3-6.
  * 微信消息处理类
  */
 public class MessageUtils {

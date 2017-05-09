@@ -1,7 +1,6 @@
 package com.sheshu.pay.bean;
 
 /**
- * Created by dbh on 2017/5/2.
  * 统一下单Bean
  */
 public class Unifiedorder extends BaseUnifiedorder{

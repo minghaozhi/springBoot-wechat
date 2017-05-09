@@ -7,9 +7,7 @@ import org.springframework.stereotype.Repository;
 
 import javax.annotation.Resource;
 
-/**
- * 董帮辉 2017-4-16.
- */
+
 @Repository
 public class CatDao {
 

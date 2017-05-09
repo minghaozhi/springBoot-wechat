@@ -1,7 +1,6 @@
 package com.sheshu.wechat.menu;
 
 /**
- * 董帮辉 2017-3-11
  * 公共按钮属性
  */
 public class Button {

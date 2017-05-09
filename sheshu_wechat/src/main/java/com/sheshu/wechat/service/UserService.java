@@ -5,9 +5,6 @@ import com.sheshu.wechat.bean.user.UserListInfo;
 
 import java.io.IOException;
 
-/**
- * 董帮辉 2017-4-19.
- */
 public interface UserService {
     UserListInfo getUserListInfo() throws IOException;
 

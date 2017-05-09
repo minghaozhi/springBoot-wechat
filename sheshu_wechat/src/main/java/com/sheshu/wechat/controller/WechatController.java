@@ -18,9 +18,7 @@ import javax.servlet.http.HttpServletRequest;
 import java.io.IOException;
 import java.util.Map;
 
-/**
- * 董帮辉 2017-3-5.
- */
+
 @RestController
 @RequestMapping("/wechat")
 public class WechatController {

@@ -9,9 +9,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import javax.annotation.Resource;
 import java.util.Map;
 
-/**
- * 董帮辉 2017-4-16.
- */
 @Controller
 @RequestMapping("/cat")
 public class CatController {

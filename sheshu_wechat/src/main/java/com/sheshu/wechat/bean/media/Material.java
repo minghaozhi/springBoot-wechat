@@ -1,7 +1,6 @@
 package com.sheshu.wechat.bean.media;
 
 /**
- * 董帮辉 2017-3-8
  * 素材.
  */
 public class Material {

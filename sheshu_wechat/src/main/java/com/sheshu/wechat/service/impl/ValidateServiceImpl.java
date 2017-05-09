@@ -6,9 +6,7 @@ import com.sheshu.wechat.service.ValidateService;
 import org.springframework.stereotype.Service;
 import java.util.Arrays;
 
-/**
- * 董帮辉 2017-3-5.
- */
+
 @Service("validateService")
 public class ValidateServiceImpl implements ValidateService{
 

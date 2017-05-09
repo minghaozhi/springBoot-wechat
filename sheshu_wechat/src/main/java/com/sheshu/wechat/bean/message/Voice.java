@@ -1,8 +1,6 @@
 package com.sheshu.wechat.bean.message;
 
-/**
- * 董帮辉 2017-3-10.
- */
+
 public class Voice {
 
     private String MediaId;

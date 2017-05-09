@@ -1,7 +1,6 @@
 package com.sheshu.wechat.bean.message;
 
 /**
- * 董帮辉 2017-3-10
  * 视频消息
  */
 public class VideoMessage extends BaseMessage {

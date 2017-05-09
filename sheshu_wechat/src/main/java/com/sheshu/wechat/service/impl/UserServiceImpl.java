@@ -14,9 +14,7 @@ import org.springframework.util.StringUtils;
 
 import java.io.IOException;
 
-/**
- * 董帮辉 2017-4-19.
- */
+
 @Service("userService")
 public class UserServiceImpl implements UserService {
 

@@ -1,7 +1,6 @@
 package com.sheshu.wechat.bean.message;
 
 /**
- * 董帮辉 2017-3-10.
  * 图片消息
  */
 public class ImageMessage extends BaseMessage {

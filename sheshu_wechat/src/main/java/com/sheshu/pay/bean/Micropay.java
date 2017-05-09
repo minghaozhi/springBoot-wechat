@@ -1,7 +1,6 @@
 package com.sheshu.pay.bean;
 
 /**
- * Created by dbh on 2017/5/2.
  * 提交刷卡支付Bean
  */
 public class Micropay extends BaseUnifiedorder{

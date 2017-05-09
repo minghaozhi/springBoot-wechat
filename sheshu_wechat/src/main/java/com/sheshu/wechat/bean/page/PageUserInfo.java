@@ -5,7 +5,6 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
 import java.util.List;
 
 /**
- * Created by 董帮辉 on 2017-4-23.
  * 通过网页授权接口获取的用户信息
  */
 public class PageUserInfo {

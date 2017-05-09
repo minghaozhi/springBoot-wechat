@@ -6,9 +6,7 @@ import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;
 
-/**
- * 董帮辉 2017-4-16.
- */
+
 @Service
 public class CatService {
 

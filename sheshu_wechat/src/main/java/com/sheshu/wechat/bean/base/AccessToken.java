@@ -2,9 +2,7 @@ package com.sheshu.wechat.bean.base;
 
 import java.util.Date;
 
-/**
- * 董帮辉 2017-3-8
- */
+
 public class AccessToken {
 
     private String access_token;

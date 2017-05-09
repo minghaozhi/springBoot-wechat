@@ -1,8 +1,6 @@
 package com.sheshu.wechat.bean.page;
 
-/**
- * Created by 董帮辉 on 2017-4-23.
- */
+
 public class JsApiTicket {
 
     //返回码

@@ -2,9 +2,7 @@ package com.sheshu.wechat.bean.user;
 
 import java.util.List;
 
-/**
- * 董帮辉 2017-4-19.
- */
+
 public class UserInfo {
 
     //用户是否订阅该公众号标识，值为0时，代表此用户没有关注该公众号，拉取不到其余信息。

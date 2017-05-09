@@ -10,9 +10,7 @@ import org.springframework.stereotype.Service;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by dbh on 2017/5/2.
- */
+
 @Service("scanQRService")
 public class ScanQRServiceImpl implements ScanQRService {
 

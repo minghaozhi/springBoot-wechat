@@ -1,7 +1,6 @@
 package com.sheshu.pay.bean;
 
 /**
- * Created by dbh on 2017/5/2.
  * 查询订单Bean
  */
 public class Orderquery {

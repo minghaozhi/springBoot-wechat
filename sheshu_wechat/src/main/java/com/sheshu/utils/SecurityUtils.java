@@ -4,7 +4,6 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
 /**
- * 董帮辉 2017-3-5.
  * 字符串加密的安全类
  */
 public class SecurityUtils {

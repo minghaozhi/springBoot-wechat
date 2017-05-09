@@ -3,7 +3,6 @@ package com.sheshu.wechat.bean.message;
 import java.util.List;
 
 /**
- * 董帮辉 2017-3-6.
  * 图文消息
  */
 public class NewsMessage extends BaseMessage {

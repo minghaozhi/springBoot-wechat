@@ -1,8 +1,6 @@
 package com.sheshu.wechat.bean.base;
 
-/**
- * 董帮辉 2017-3-27.
- */
+
 public class Ips {
     //ip地址列表
     private String[] ip_list;

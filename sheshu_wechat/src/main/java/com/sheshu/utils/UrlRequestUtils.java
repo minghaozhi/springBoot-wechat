@@ -6,7 +6,6 @@ import java.net.URL;
 import java.net.URLConnection;
 
 /**
- * 董帮辉 2017-3-8.
  * 接口调用的工具类
  */
 public class UrlRequestUtils {

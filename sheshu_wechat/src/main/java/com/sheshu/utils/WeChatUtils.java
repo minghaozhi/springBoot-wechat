@@ -7,7 +7,6 @@ import java.text.SimpleDateFormat;
 import java.util.*;
 
 /**
- * 董帮辉 2017-3-8.
  * 微信的工具类
  */
 public class WeChatUtils {

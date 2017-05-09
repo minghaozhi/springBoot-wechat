@@ -12,7 +12,6 @@ import javax.servlet.Filter;
 import java.util.Properties;
 
 /**
- * 董帮辉 2017-4-16.
  * 配置类
  */
 @Configuration

@@ -1,7 +1,6 @@
 package com.sheshu.wechat.bean.message;
 
 /**
- * 董帮辉 2017-3-10
  * 音乐消息
  */
 public class MusicMessage extends BaseMessage {

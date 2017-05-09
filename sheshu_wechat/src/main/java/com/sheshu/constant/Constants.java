@@ -1,8 +1,6 @@
 package com.sheshu.constant;
 
-/**
- * 董帮辉 2017-3-6.
- */
+
 public class Constants {
 
     /**

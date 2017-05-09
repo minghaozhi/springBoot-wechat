@@ -1,7 +1,6 @@
 package com.sheshu.wechat.bean.message;
 
 /**
- * 董帮辉 2017-3-6.
  * 文本消息
  */
 public class TextMessage extends BaseMessage {

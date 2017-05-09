@@ -3,7 +3,6 @@ package com.sheshu.wechat.bean.page;
 import java.util.Date;
 
 /**
- * Created by 董帮辉 on 2017-4-23.
  * 网页授权的access_token
  */
 public class PageAccessToken {

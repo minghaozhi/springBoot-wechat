@@ -1,8 +1,6 @@
 package com.sheshu.wechat.bean.message;
 
-/**
- * 董帮辉 2017-3-6.
- */
+
 public class News {
 
     // 图文消息名称

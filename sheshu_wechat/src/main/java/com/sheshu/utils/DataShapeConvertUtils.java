@@ -13,9 +13,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * 董帮辉 2017-3-5.
- */
+
 public class DataShapeConvertUtils {
 
     public static Map<String, String>  xmlToMap(String xml) throws IOException,DocumentException{

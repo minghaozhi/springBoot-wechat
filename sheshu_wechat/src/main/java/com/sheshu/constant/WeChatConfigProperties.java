@@ -3,9 +3,7 @@ package com.sheshu.constant;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
 
-/**
- * 董帮辉 2017-3-8.
- */
+
 @Component
 @ConfigurationProperties(prefix = "wechat")
 public class WeChatConfigProperties {
